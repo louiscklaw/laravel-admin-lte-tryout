@@ -228,6 +228,10 @@ return [
 
         Atnic\AdminLTE\Providers\AppServiceProvider::class,
 
+
+        Lavary\Menu\ServiceProvider::class,
+
+
     ],
 
 ];
